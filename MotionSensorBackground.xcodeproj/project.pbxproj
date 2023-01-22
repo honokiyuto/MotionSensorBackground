@@ -11,7 +11,6 @@
 		C3A503CE297B4F430009A01F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A503CD297B4F430009A01F /* ContentView.swift */; };
 		C3A503D0297B4F450009A01F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A503CF297B4F450009A01F /* Assets.xcassets */; };
 		C3A503D4297B4F450009A01F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A503D3297B4F450009A01F /* Preview Assets.xcassets */; };
-		C3A503DB297B4FA40009A01F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A503DA297B4FA40009A01F /* AppDelegate.swift */; };
 		C3A503DE297B57CC0009A01F /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A503DD297B57CC0009A01F /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,7 +21,6 @@
 		C3A503CF297B4F450009A01F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3A503D1297B4F450009A01F /* MotionSensorBackground.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MotionSensorBackground.entitlements; sourceTree = "<group>"; };
 		C3A503D3297B4F450009A01F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C3A503DA297B4FA40009A01F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3A503DC297B54D00009A01F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		C3A503DD297B57CC0009A01F /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,7 +58,6 @@
 				C3A503DC297B54D00009A01F /* Info.plist */,
 				C3A503CB297B4F430009A01F /* MotionSensorBackgroundApp.swift */,
 				C3A503CD297B4F430009A01F /* ContentView.swift */,
-				C3A503DA297B4FA40009A01F /* AppDelegate.swift */,
 				C3A503DD297B57CC0009A01F /* LocationManager.swift */,
 				C3A503CF297B4F450009A01F /* Assets.xcassets */,
 				C3A503D1297B4F450009A01F /* MotionSensorBackground.entitlements */,
@@ -148,7 +145,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3A503DE297B57CC0009A01F /* LocationManager.swift in Sources */,
-				C3A503DB297B4FA40009A01F /* AppDelegate.swift in Sources */,
 				C3A503CE297B4F430009A01F /* ContentView.swift in Sources */,
 				C3A503CC297B4F430009A01F /* MotionSensorBackgroundApp.swift in Sources */,
 			);
